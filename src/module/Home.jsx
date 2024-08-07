@@ -7,7 +7,7 @@ export default function Home() {
 			This is home module
 			<br />
 			<br />
-			<Button label="Button v1.0.4" />
+			<Button label="Button v1.0.4" backgroundColor="red" />
 		</div>
 	);
 }
